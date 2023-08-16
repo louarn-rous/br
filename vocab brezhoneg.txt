@@ -9,6 +9,7 @@ deiz;day
 douar;earth
 du;black
 evañ;drink
+enor;honour
 go;mont
 goañv;winter
 green;gwer,glas
