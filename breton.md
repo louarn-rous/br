@@ -46,7 +46,6 @@ definite:
 'al' before l  
 else 'ar'  
 
-e.g:
 - tan (fire) -> an tan (the fire)
 - logodenn (mouse) -> an logodenn (the mouse)
 - gador (chair) -> ar gador (the chair)
