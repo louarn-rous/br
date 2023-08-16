@@ -27,7 +27,7 @@ lagad (eye) -> lagadoù (eyes)
 -> daoulagad \([pair of] eyes) -> daoulagadoù (\[pairs of] eyes)
 
 ### Singulative  
-suffix '-enn' (femininex):  
+suffix '-enn' (feminine):  
 
 gwez : trees (collective)  
 -> gwezenn : (a single) tree  
@@ -38,8 +38,6 @@ suffix '-ig'
 
 prad (meadow) -> pradig (little meadow)  
 -> pradoù (meadows) -> pardouigoù (little meadows)
-
-cf. 'compare(d to)'
 
 ## Articles
 
