@@ -161,14 +161,15 @@ Pre-clitic head pronouns function as object pronouns preceding verb phrases and 
 | 3p  | int    | i, int     | o             | anezho               |
 
 Like in French, the 2nd person plural is used as a 2nd person singular to show politeness.  
-Alarge part of central Brittany has lost the 2s 'te' altogether and uses c'hwi for all 2nd person reference. The partitive paraphrase has replaced the traditional post-clitic obj pronouns in every dialect except Gwenedeg (Vannetais) except when obj is fronted for emphasis.  
-The inflected forms of the preposition 'a' (of) placed after the verb are sub'd for the traditional obj pronoun, e.g 'E kêr e welas Yannig anezho' (Yanning saw them in town) more literally 'in the town Yanning saw of them' and occasionally function as subjectss (with intransitive, usually negative, verbs)
+A large part of central Brittany has lost the 2s 'te' altogether and uses c'hwi for all 2nd person reference.  
+The partitive paraphrase has replaced the traditional post-clitic object pronouns in every dialect except Gwenedeg (Vannetais) except when object is fronted for emphasis.  
+The inflected forms of the preposition 'a' (of) placed after the verb are substituted for the traditional object pronoun, e.g 'E kêr e welas Yannig anezho' (Yanning saw them in town) more literally 'in the town Yanning saw of them' and occasionally function as subjects (with intransitive, usually negative, verbs).
 
 ### Demonstrative
 
 Demonstrative pronouns display 3 degrees of proximity, as well as gender and number.
 
-|               | masc sg | fem sg   | common pl  |
+|               | masculine singular | feminine singular | common plural |
 | :-            | :-      | :-       | :-         |
 | near speaker  | hemañ   | houmañ   | ar re-mañ  |
 | near listener | hennezh | hounnezh | ar re-se   |
