@@ -1,0 +1,226 @@
+
+Breton is a Celtic language. thus it is closer to Welsh and Cornish than to French.
+
+masculine suffixess include: -ach, -adur, -aj, -er, -lec'h, -our, -ti, -va
+
+feminine suffixes include: -eg, -ell, -enn, -enti, -er, -ez, -ezh, -ezon, -i
+
+## plural  
+for animate nouns: -ed  
+inanimate nouns: -(i)où
+
+other forms:  
+ti (house) -> tiez (houses)
+kastell (castle) -> kestell (castles)
+maen (stone) -> mein (stones)
+bran (cow) -> brini (cows)
+gad (hare) -> geden (hares)
+
+den -> tud
+ki -> kon, chas
+
+### dual
+prf. 'daou-' to masc. nouns
+prf. 'di(v)-' to fem. nouns
+
+lagad   : eye  
+lagadoù : eyes  
+daoulagad   : (pair of) eyes  
+daoulagadoù : (pairs of) eyes
+
+### singulative
+usu. '-enn' (feminine suffix)
+gwez : trees (collective)  
+gwezenn : (a single) tree  
+gwezennoù : several trees (individually)
+
+### diminutive:
+ -ig
+
+prad : meadow  
+pradig : little meadow  
+pradoù : meadows  
+pardouigoù : little meadows
+
+cf. 'compare(d to)'
+
+## articles
+
+definite:
+'an' before dentals, vowels and unpronounced h
+'al' before l
+'ar' else
+e.g: an tan, an logodenn, ar gador
+
+(gador : chair)
+
+indefinite article 'un' follows same pattern ('ul', 'ur')
+
+the def. article may contract w. preceding prep.s e.g:
+'e' (in) + 'an' -> 'en' (in the)
+
+# ADJECTIVES
+
+comparative : -oc'h
+superlative : -añ
+
+these suffixes cause preceding consonants to undergo provection.
+
+some verbs have irregular forms:  
+
+| positive    | comparative                  | superlative              |
+| :--         | :-                           | :-                       |
+| bras (big)  | brasoc'h (bigger)            | brasañ (biggest)         |
+| gleb (wet)  | glepoc'h (wetter)            | glepañ (wettest)         |
+| ruz (red)   | rusoc'h (redder)             | rusañ (reddest)          |
+| mat (good)  | gwell(oc'h) (better)         | gwellañ (best)           |
+| drouk (bad) | droukoc'h, gwashoc'h (worse) | droukañ, gwashañ (worst) |
+
+most regular equatives are formed with 'ken' (as):  
+ken gleb (as wet)  
+ken drouk (as bad)
+
+some verbs can have seperate equative forms:  
+kement (as big)  
+koulz (as good)  
+ken gwazh (as bad)
+
+exclamative suffix (obsolete except for certain expressions)
+
+brasat ([how] big!) 
+glepat ([how] wet!)
+gwellat ([how] good!) 
+
+diminutive form/suffix -ik
+
+bihan : small -> bihanik
+bras : big -> brazik
+
+# Adverbs
+
+adverbs do not inflect
+can be formed with 'ez
+
+leal : loyal
+ez' leal : loyally
+
+
+
+# Prepositions
+
+prepositions are inflected 
+
+
+|               | i endings   | o endings  |
+| :-            | :-          | :-         |      
+| (uninflected) | gant (with) | evit (for) |
+| 1s  | ganin (with me)          | evidon (for me)          |
+| 2s  | ganit (with you)         | evidout (for you)        |
+| 3ms | gantañ (with him)        | evitañ (for him)         |
+| 3fs | ganti (with her)         | eviti (for her)          |
+| 1p  | ganimp (with us)         | evidomp (for us)         |
+| 2p  | ganeoc'h (with you (pl)) | evidoc'h (for you (pl))  |
+| 3p  | ganto, gante (with them) | evito, evite (for them)  |
+| imp | ganeor (with one)        | evidor (for one)         |
+
+some simple prepositions do not inflect:
+eus & deus (from)
+kent (before)
+goude (after)
+
+complex prep.s inflect by means of interfixes 
+(the nominal 2nd elem. is preceded by a pronomial form)
+
+| uninflected | diwar-ben (about) | e-kichen (near) |
+| :-          | :-                | :-              |
+| 1s  | diwar ma fenn (about me)        | em c'hichen (near me)     |
+| 2s  | diwar da benn (about you)       | ez kichen (near you)      |
+| 3ms | diwar e benn (about him)        | en e gichen (near him)    |
+| 3fs | diwar he fenn (about her)       | en he c'hichen (near her) |
+| 1p  | diwar hor penn (about us)       | en hor c'hichen (near us) |
+| 2p  | diwar ho penn (about you (pl))  | evidoc'h (near you(pl))   |
+| 3p  | diwar o fenn (about them)       | en o c'hichen (near them) |
+| imp | diwar ar penn (about one)       | er c'hichen (near one)    |
+
+# Conjunction
+
+certain conj.s have an additional forme when followed by a vowel:
+'ha' (and) -> 'hag'
+'na' (than) -> 'nag'
+
+a conj is usu. followed by the particle 'e' when preceding a verb
+
+hag e kouezhas (and he fell)
+peogwir e varvas (because he fell)
+
+this is not the case for:
+'ma' (that, if)
+'mar' (if)
+'pa' (if, when, because)
+
+# Pronouns
+
+## Personal
+
+personal pronouns may be strong, post-clitic head or pre-clitic head
+strong pronouns have the same distruibution as a full noun phrase and may be subjects, objects or prepositional objects
+post-clitic head pronouns tend to follow finite verbs, nouns or inflected prepositions. pre-clitic head pronouns function as object pronouns preceding verb phrases and possessive det.s preceding noun phrases.
+
+| prn | strong | pst-clitic | pre-clitic    | partitive paraphrase |
+| :-  | :-     | :-         | :-            | :-                   |
+| 1s  | me     | me         | ma, am ('m)   | ac'hanon             |
+| 2s  | te     | te         | az' ('z'), da | ac'hanout            |
+| 3ms | eñ     | eñ         | e             | anezhañ              |
+| 3fs | hi     | hi         | he            | anezhi               |
+| 1p  | ni     | ni         | hon, hol, hor | ac'hanomp            |
+| 2p  | c'hwi  | hu, c'hwi  | ho, hoc'h     | ac'hanoc'h           |
+| 3p  | int    | i, int     | o             | anezho               |
+
+the 2p is used as 2s to show politeness (like french)
+a large part of central Brittany has lost the 2s 'te' altogether and uses c'hwi for all 2nd person reference. the partitive paraphrase has replaced the traditional post-clitic obj pronouns in every dialect except Gwenedeg (Vannetais) except when obj is fronted for emphasis.
+the inflected forms of the prep. 'a' (of) placed after the verb are sub'd for the trad.al obj pronoun, e.g 'E kêr e welas Yannig anezho' (Yanning saw them in town) more literally 'in the town Yanning saw of them' and occasionally function as subj.s (with intrans, usu neg, verbs)
+
+## Demonstrative
+
+dem. pronouns display 3 deg.s of proximity as well as gender and num
+
+|               | masc sg | fem sg   | common pl  |
+| :-            | :-      | :-       | :-         |
+| near speaker  | hemañ   | houmañ   | ar re-mañ  |
+| near listener | hennezh | hounnezh | ar re-se   |
+| far from both | henhont | hounhont | ar re-hont |
+
+dem. det.s post-head clitics used in conjunction with the def. article
+
+|               | clitic                     | example                              |
+| :-            | :-                         | :-                                   |
+| near speaker  | -mañ (here)                | ar stêr-mañ (this river)             |
+| near listener | -se (there)                | an ti bihan-se (that little house)   |
+| far from both | -hont (over there, yonder) | al lent-hont (that lake over there)  |
+
+## Indefinite
+
+>>indef pronouns may be positive
+re (some, ones)
+holl (all)
+>>and negative
+netra (nothing)
+neblec'h (nowhere)
+>>may be preceded by a det.
+an re (some ('the ones'))
+da re (your ('your ones'))
+
+# Verbs
+
+breton verbs and be conj'd to show tense, impact, mood, person and num by adding suffixes to the verbal stem
+
+|     | indicative | indicative | indicative | conditional | conditional | conditional | imperative |
+| :-  | :-  | :- | :- | :- | :- | :- | :- |
+| prs | present | imperfect | preterite | future | present | imperfect |  |
+| 1s  | -an  | -en   | -is    | -in  | -fen   | -jen   | -    |
+| 2s  | -ez  | -es   | -jout  | -i   | -fes   | -jes   | _no ending_  |
+| 3s  | _no ending_  | -e    | -as    | -o   | -fe    | -je    | -et  |
+| 1p  | -omp | -emp  | -jomp  | -imp | -femp  | -jemp  | -omp |
+| 2p  | -it  | -ec'h | -joc'h | -ot  | -fec'h | -jec'h | -it  |
+| 3p  | -ont | -ent  | -jont  | -int | -fent  | -jent  | -ent |
+| imp | -er  | -ed   | -jod   | -or  | -fed   | -jed   | -    |
