@@ -1,5 +1,6 @@
 # Breton Grammar  
-Breton is a Celtic language. thus it is closer to Welsh and Cornish than to French.
+Breton is a Celtic language. thus it is closer to Welsh and Cornish than to French.  
+it utilizes Verb-Subject-Object word order.
 
 masculine suffixess include: -ach, -adur, -aj, -er, -lec'h, -our, -ti, -va  
 feminine suffixes include: -eg, -ell, -enn, -enti, -er, -ez, -ezh, -ezon, -i
@@ -7,10 +8,12 @@ feminine suffixes include: -eg, -ell, -enn, -enti, -er, -ez, -ezh, -ezon, -i
 ## Number
 
 ### Plural  
-suffix '-ed' for animate nouns  
-suffix -(i)où for inanimate nouns  
+suffix '-ed' for most animate nouns  
+suffix -(i)où for most inanimate nouns  
 
-there are many exceptions:  
+there are some exceptions, such as 'test' (witness) becoming 'testoù' despite being animate.
+
+although there are a few which use other suffixes, vowel alteration, both or have a completely different plural form:  
 - ti (house) -> tiez (houses)  
 - kastell (castle) -> kestell (castles)  
 - maen (stone) -> mein (stones)  
@@ -27,7 +30,7 @@ lagad (eye) -> lagadoù (eyes)
 -> daoulagad \([pair of] eyes) -> daoulagadoù (\[pairs of] eyes)
 
 ### Singulative  
-suffix '-enn' (feminine):  
+suffix '-enn' (feminine)  
 
 gwez : trees (collective)  
 -> gwezenn : (a single) tree  
@@ -46,11 +49,18 @@ definite:
 'al' before l  
 else 'ar'  
 
-- tan (fire) -> an tan (the fire)
-- logodenn (mouse) -> an logodenn (the mouse)
-- gador (chair) -> ar gador (the chair)
+- an tan (the fire)
+- al logodenn (the mouse)
+- ar gador (the chair)
 
-the indefinite article 'un' follows the same pattern ('ul', 'ur')
+the indefinite article follows the same pattern:  
+'un' before dentals, vowels and unpronounced h  
+'ul' before l  
+else 'ur'  
+
+- un tan (a fire)
+- ul logodenn (a mouse)
+- ur gador (a chair)
 
 the definite article may contract with preceding prepositions e.g:  
 'e' (in) + 'an' -> 'en' (in the)
@@ -60,9 +70,8 @@ the definite article may contract with preceding prepositions e.g:
 suffix "-oc'h" for the comparative  
 suffix "-añ" for the superlative
 
-these suffixes cause preceding consonants to undergo provection.
-
-some verbs have irregular forms:  
+these suffixes cause preceding consonants to undergo provection.  
+some adjectives (such as 'mat' and 'drouk') can have irregular forms:  
 
 | positive    | comparative                  | superlative              |
 | :--         | :-                           | :-                       |
@@ -86,7 +95,7 @@ exclamative suffix -at (obsolete except for certain expressions):
 - glepat (\[how] wet!)  
 - gwellat (\[how] good!) 
 
-diminutive form/suffix -ik :  
+diminutive form using suffix '-ik' :  
 - bihan (small) -> bihanik  
 - bras (big) -> brazik
 
