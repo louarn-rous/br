@@ -1,4 +1,4 @@
-
+# Breton Grammar  
 Breton is a Celtic language. thus it is closer to Welsh and Cornish than to French.
 
 masculine suffixess include: -ach, -adur, -aj, -er, -lec'h, -our, -ti, -va
@@ -9,33 +9,34 @@ feminine suffixes include: -eg, -ell, -enn, -enti, -er, -ez, -ezh, -ezon, -i
 for animate nouns: -ed  
 inanimate nouns: -(i)où
 
-other forms:  
-ti (house) -> tiez (houses)
-kastell (castle) -> kestell (castles)
-maen (stone) -> mein (stones)
-bran (cow) -> brini (cows)
+there are many exceptions:  
+ti (house) -> tiez (houses)  
+kastell (castle) -> kestell (castles)  
+maen (stone) -> mein (stones)  
+bran (cow) -> brini (cows)  
 gad (hare) -> geden (hares)
 
-den -> tud
+den -> tud  
 ki -> kon, chas
 
-### dual
-prf. 'daou-' to masc. nouns
-prf. 'di(v)-' to fem. nouns
+### dual  
+prefix 'daou-' for masculine nouns  
+prefix 'di(v)-' for feminine nouns
 
 lagad   : eye  
 lagadoù : eyes  
 daoulagad   : (pair of) eyes  
 daoulagadoù : (pairs of) eyes
 
-### singulative
-usu. '-enn' (feminine suffix)
+### singulative  
+suffix '-enn' (feminine suffix):  
+
 gwez : trees (collective)  
 gwezenn : (a single) tree  
 gwezennoù : several trees (individually)
 
 ### diminutive:
- -ig
+suffix '-ig'
 
 prad : meadow  
 pradig : little meadow  
@@ -44,12 +45,13 @@ pardouigoù : little meadows
 
 cf. 'compare(d to)'
 
-## articles
+## Articles
 
-definite:
-'an' before dentals, vowels and unpronounced h
-'al' before l
-'ar' else
+definite:  
+'an' before dentals, vowels and unpronounced h  
+'al' before l  
+else 'ar'  
+
 e.g: an tan, an logodenn, ar gador
 
 (gador : chair)
@@ -59,9 +61,9 @@ indefinite article 'un' follows same pattern ('ul', 'ur')
 the def. article may contract w. preceding prep.s e.g:
 'e' (in) + 'an' -> 'en' (in the)
 
-# ADJECTIVES
+# Adjectives
 
-comparative : -oc'h
+comparative : -oc'h  
 superlative : -añ
 
 these suffixes cause preceding consonants to undergo provection.
@@ -85,31 +87,24 @@ kement (as big)
 koulz (as good)  
 ken gwazh (as bad)
 
-exclamative suffix (obsolete except for certain expressions)
-
-brasat ([how] big!) 
-glepat ([how] wet!)
+exclamative suffix -at (obsolete except for certain expressions):  
+brasat ([how] big!)   
+glepat ([how] wet!)  
 gwellat ([how] good!) 
 
-diminutive form/suffix -ik
-
-bihan : small -> bihanik
-bras : big -> brazik
+diminutive form/suffix -ik :  
+bihan (small) -> bihanik  
+bras (big) -> brazik
 
 # Adverbs
 
-adverbs do not inflect
-can be formed with 'ez
-
-leal : loyal
-ez' leal : loyally
+adverbs do not inflect, and can be formed with 'ez:  
+leal (loyal) -> ez' leal (loyally)
 
 
 
 # Prepositions
-
-prepositions are inflected 
-
+prepositions may or may not be inflected for person, number and gender.
 
 |               | i endings   | o endings  |
 | :-            | :-          | :-         |      
@@ -123,13 +118,12 @@ prepositions are inflected
 | 3p  | ganto, gante (with them) | evito, evite (for them)  |
 | imp | ganeor (with one)        | evidor (for one)         |
 
-some simple prepositions do not inflect:
-eus & deus (from)
-kent (before)
+some simple prepositions do not inflect:  
+eus & deus (from)  
+kent (before)  
 goude (after)
 
-complex prep.s inflect by means of interfixes 
-(the nominal 2nd elem. is preceded by a pronomial form)
+complex prepositions inflect by means of interfixes (the nominal 2nd element is preceded by a pronomial form).
 
 | uninflected | diwar-ben (about) | e-kichen (near) |
 | :-          | :-                | :-              |
@@ -142,29 +136,28 @@ complex prep.s inflect by means of interfixes
 | 3p  | diwar o fenn (about them)       | en o c'hichen (near them) |
 | imp | diwar ar penn (about one)       | er c'hichen (near one)    |
 
-# Conjunction
+# Conjunctions
 
-certain conj.s have an additional forme when followed by a vowel:
-'ha' (and) -> 'hag'
+certain conjunctions have an additional forme when followed by a vowel:  
+'ha' (and) -> 'hag'  
 'na' (than) -> 'nag'
 
-a conj is usu. followed by the particle 'e' when preceding a verb
-
-hag e kouezhas (and he fell)
+a conjunction is ususally followed by the particle 'e' when preceding a verb:  
+hag e kouezhas (and he fell)  
 peogwir e varvas (because he fell)
 
-this is not the case for:
-'ma' (that, if)
-'mar' (if)
+this is not the case for:  
+'ma' (that, if)  
+'mar' (if)  
 'pa' (if, when, because)
 
 # Pronouns
 
 ## Personal
-
-personal pronouns may be strong, post-clitic head or pre-clitic head
-strong pronouns have the same distruibution as a full noun phrase and may be subjects, objects or prepositional objects
-post-clitic head pronouns tend to follow finite verbs, nouns or inflected prepositions. pre-clitic head pronouns function as object pronouns preceding verb phrases and possessive det.s preceding noun phrases.
+personal pronouns may be strong, post-clitic head or pre-clitic head.  
+strong pronouns have the same distruibution as a full noun phrase and may be subjects, objects or prepositional objects.  
+post-clitic head pronouns tend to follow finite verbs, nouns or inflected prepositions.
+pre-clitic head pronouns function as object pronouns preceding verb phrases and possessive determinerss preceding noun phrases.
 
 | prn | strong | pst-clitic | pre-clitic    | partitive paraphrase |
 | :-  | :-     | :-         | :-            | :-                   |
@@ -182,7 +175,7 @@ the inflected forms of the prep. 'a' (of) placed after the verb are sub'd for th
 
 ## Demonstrative
 
-dem. pronouns display 3 deg.s of proximity as well as gender and num
+demonstrative pronouns display 3 degrees of proximity, as well as gender and number.
 
 |               | masc sg | fem sg   | common pl  |
 | :-            | :-      | :-       | :-         |
@@ -190,7 +183,7 @@ dem. pronouns display 3 deg.s of proximity as well as gender and num
 | near listener | hennezh | hounnezh | ar re-se   |
 | far from both | henhont | hounhont | ar re-hont |
 
-dem. det.s post-head clitics used in conjunction with the def. article
+demonstrative determiners are post-head clitics used in conjunction with the definite article
 
 |               | clitic                     | example                              |
 | :-            | :-                         | :-                                   |
@@ -200,19 +193,21 @@ dem. det.s post-head clitics used in conjunction with the def. article
 
 ## Indefinite
 
->>indef pronouns may be positive
-re (some, ones)
+indefinite pronouns may be positive:  
+re (some, ones)  
 holl (all)
->>and negative
-netra (nothing)
+
+and negative:  
+netra (nothing)  
 neblec'h (nowhere)
->>may be preceded by a det.
-an re (some ('the ones'))
+
+and may be preceded by a determiner:  
+an re (some ('the ones'))  
 da re (your ('your ones'))
 
 # Verbs
 
-breton verbs and be conj'd to show tense, impact, mood, person and num by adding suffixes to the verbal stem
+Breton verbs can be conjugated to show tense, impact, mood, person and num by adding suffixes to the verbal stem.
 
 |     | indicative | indicative | indicative | conditional | conditional | conditional | imperative |
 | :-  | :-  | :- | :- | :- | :- | :- | :- |
