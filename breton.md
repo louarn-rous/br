@@ -148,10 +148,10 @@ this is not the case for:
 ## Pronouns
 
 ### Personal
-personal pronouns may be strong, post-clitic head or pre-clitic head.  
-strong pronouns have the same distruibution as a full noun phrase and may be subjects, objects or prepositional objects.  
-post-clitic head pronouns tend to follow finite verbs, nouns or inflected prepositions.
-pre-clitic head pronouns function as object pronouns preceding verb phrases and possessive determinerss preceding noun phrases.
+Personal pronouns may be strong, post-clitic head or pre-clitic head.  
+Strong pronouns have the same distruibution as a full noun phrase and may be subjects, objects or prepositional objects.  
+Post-clitic head pronouns tend to follow finite verbs, nouns or inflected prepositions.  
+Pre-clitic head pronouns function as object pronouns preceding verb phrases and possessive determinerss preceding noun phrases.
 
 | prn | strong | pst-clitic | pre-clitic    | partitive paraphrase |
 | :-  | :-     | :-         | :-            | :-                   |
@@ -163,13 +163,13 @@ pre-clitic head pronouns function as object pronouns preceding verb phrases and 
 | 2p  | c'hwi  | hu, c'hwi  | ho, hoc'h     | ac'hanoc'h           |
 | 3p  | int    | i, int     | o             | anezho               |
 
-the 2p is used as 2s to show politeness (like french)
-a large part of central Brittany has lost the 2s 'te' altogether and uses c'hwi for all 2nd person reference. the partitive paraphrase has replaced the traditional post-clitic obj pronouns in every dialect except Gwenedeg (Vannetais) except when obj is fronted for emphasis.
-the inflected forms of the prep. 'a' (of) placed after the verb are sub'd for the trad.al obj pronoun, e.g 'E kêr e welas Yannig anezho' (Yanning saw them in town) more literally 'in the town Yanning saw of them' and occasionally function as subj.s (with intrans, usu neg, verbs)
+Like in French, the 2nd person plural is used as a 2nd person singular to show politeness.  
+Alarge part of central Brittany has lost the 2s 'te' altogether and uses c'hwi for all 2nd person reference. The partitive paraphrase has replaced the traditional post-clitic obj pronouns in every dialect except Gwenedeg (Vannetais) except when obj is fronted for emphasis.  
+The inflected forms of the preposition 'a' (of) placed after the verb are sub'd for the traditional obj pronoun, e.g 'E kêr e welas Yannig anezho' (Yanning saw them in town) more literally 'in the town Yanning saw of them' and occasionally function as subjectss (with intransitive, usually negative, verbs)
 
 ### Demonstrative
 
-demonstrative pronouns display 3 degrees of proximity, as well as gender and number.
+Demonstrative pronouns display 3 degrees of proximity, as well as gender and number.
 
 |               | masc sg | fem sg   | common pl  |
 | :-            | :-      | :-       | :-         |
@@ -177,7 +177,7 @@ demonstrative pronouns display 3 degrees of proximity, as well as gender and num
 | near listener | hennezh | hounnezh | ar re-se   |
 | far from both | henhont | hounhont | ar re-hont |
 
-demonstrative determiners are post-head clitics used in conjunction with the definite article
+Demonstrative determiners are post-head clitics used in conjunction with the definite article.
 
 |               | clitic                     | example                              |
 | :-            | :-                         | :-                                   |
